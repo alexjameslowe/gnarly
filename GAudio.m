@@ -750,7 +750,7 @@ Exit:
 //                                 //
 /////////////////////////////////////
 
-//So here's the deal, you pause a sound, but the fucking thing is playing on multiple channels.
+//So here's the deal, you pause a sound, but the f_cking thing is playing on multiple channels.
 //so basically you're going to the last one that was playing and pausing it. well, what about those other damned channels?
 
 
